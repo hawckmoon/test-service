@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Netbeans ignore
+**/nbproject
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+
+# Node
+node_modules
+
